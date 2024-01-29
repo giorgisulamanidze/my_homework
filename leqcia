@@ -1,7 +1,0 @@
-def calculate_sum(input_list):
-    return sum(input_list)
-
-# Example usage:
-my_list = [1, 2, 3, 4, 5]
-result = calculate_sum(my_list)
-print(f"The sum of the elements in the list is: {result}")
